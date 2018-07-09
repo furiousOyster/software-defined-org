@@ -26,10 +26,15 @@ Here we describe what features of the org will be delivered when, what features 
 # UNSORTED
 ## Interbit modelled using git
 Any interbit system can be modeled using github repo permissions, issues, and git commits.
+
 > `issues === actions`
+
 > `commits === blocks`
+
 > `prs, branches, merges === chain forks and merges`
+
 > `git submodules === read joins`
+
 > `ability to create issues === write join access`
 
 ## A note on humanity
