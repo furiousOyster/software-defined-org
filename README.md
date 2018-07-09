@@ -31,3 +31,6 @@ Any interbit system can be modeled using github repo permissions, issues, and gi
 > `prs, branches, merges === chain forks and merges`
 > `git submodules === read joins`
 > `ability to create issues === write join access`
+
+## A note on humanity
+It is very important to draw the distinction between the functions required by the organization, and the human beings supplying those functions.  The functions are cold and precise, but the humans warm and approximate.  We encourage humans to rotate functions periodically, and value most continual improvement in clean execution of function, and strict adherence to the cross function API that makes the organization work.  
