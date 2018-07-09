@@ -22,3 +22,12 @@ Each sprint close, we publish a changelog describing the changes that have been 
 
 # Roadmap
 Here we describe what features of the org will be delivered when, what features are in progress, and briefly describe why they are need.  We also talk about what features will see sunset.
+
+# UNSORTED
+## Interbit modelled using git
+Any interbit system can be modeled using github repo permissions, issues, and git commits.
+> `issues === actions`
+> `commits === blocks`
+> `prs, branches, merges === chain forks and merges`
+> `git submodules === read joins`
+> `ability to create issues === write join access`
