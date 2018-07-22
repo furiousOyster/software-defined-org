@@ -1,5 +1,7 @@
 # Situational Awareness
-Awareness of what our competitors are doing, what our customers are doing, and what we think both groups will do next is key to survival.  The types of competitor and customer can be represented 
+Awareness of what our competitors are doing, what our customers are doing, and what we think both groups will do next is key to survival.  The types of competitor and customer can be represented as a series of circles.
+
+This is another funnelling process, where we need to take a huge amount of data, and reduce it down to timely, meaningful, summaries and extracts.  The top of the funnel is a list of every possible option, then as things move through the pipeline, increasing studious effort is expended to learn about them.
 
 ## Required areas of awareness:
 
