@@ -6,6 +6,7 @@ Orgs ultimately have features that matter to their users.  Users of an org are:
 1. Customers
 5. Staff
 3. Shareholders
+The purpose of all orgs is to supply demands - this is called sales - an org is measured on how quickly it can identify demand and supply it with as little of its own resources as possible - this is margin maximization
 
 # Data
 As software is used, it creates data.  Data MAY be mixed with logic in some circumstances.  In this case, we separate the configuration of the org from the running data, but use the same repository.
