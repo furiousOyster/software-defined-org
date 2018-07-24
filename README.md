@@ -37,5 +37,7 @@ Any interbit system can be modeled using github repo permissions, issues, and gi
 
 > `ability to create issues === write join access`
 
+Revenue is generated ONLY by apps.  Apps are not built by BTL.  Apps need an environment around them to allow their production.  BTL resources are only deployed on things that support the production of the highest revenue generating apps, and nothing else.
+
 ## A note on humanity
 It is very important to draw the distinction between the functions required by the organization, and the human beings supplying those functions.  The functions are cold and precise, but the humans warm and approximate.  We encourage humans to rotate functions periodically, and value most continual improvement in clean execution of function, and strict adherence to the cross function API that makes the organization work.  
