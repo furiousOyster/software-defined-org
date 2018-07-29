@@ -9,7 +9,11 @@ Orgs ultimately have features that matter to their users.  Users of an org are:
 The purpose of all orgs is to supply demands - this is called sales - an org is measured on how quickly it can identify demand and supply it with as little of its own resources as possible - this is margin maximization
 
 # Data
-As software is used, it creates data.  Data MAY be mixed with logic in some circumstances.  In this case, we separate the configuration of the org from the running data, but use the same repository.
+As software is used, it creates data.  Data MAY be mixed with logic in some circumstances.  In this case, we separate the configuration of the org from the running data, but use the same repository.  There are 4 levels of data:
+1. SDO - Code that governs the operation of the organism PUBLIC
+1. Intel - Data generated from executing governing code - this is the business knowledge PUBLIC
+1. Source - Source code resulting from the output of the dev machine PRIVATE
+1. HR - Sensitive personnel data PRIVATE
 
 # Issues
 Tickets serve two purposes here:
