@@ -12,6 +12,24 @@ Features are met by functions.
 
 The overall functionality of an org is always measured by Sales.  Therefore everything within an org can be measured relative to increasing sales performance.
 
+# Functions that fulfill the Features of the SDO and dependencies
+1. Market awareness 
+1. Contacts
+1. Recruiting
+   1. Contacts
+1. Sales
+   1. Market awareness
+1. Demand forecasting
+   1. Market awareness
+1. Product dev
+   1. Core dev
+   1. Platform dev
+   1. App dev
+1. App dev
+1. Accounting
+   1. Sales
+
+
 # Data
 As software is used, it creates data.  Data MAY be mixed with logic in some circumstances.  In this case, we separate the configuration of the org from the running data, but use the same repository.  Each instanciation of the SDO forms a Fraction, which is the execution of the SDO code in a specific region.  There are 4 levels of data:
 1. Global SDO - Code that governs the operation of the organism PUBLIC
