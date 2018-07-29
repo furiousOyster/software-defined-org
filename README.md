@@ -28,11 +28,14 @@ Unless we can measure the change, we're not going to implement it.
    1. Market awareness
 1. Demand forecasting
    1. Market awareness
-1. Product dev
+1. Core dev
+   1. Market awareness
+   1. Sales
+1. Factory Dev (Soviet)
    1. Core dev
    1. Platform dev
    1. App dev
-1. App dev
+1. App dev (Helix dev)
 1. Core R&D
 1. Accounting
    1. Sales
