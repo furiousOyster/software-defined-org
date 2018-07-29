@@ -1,6 +1,11 @@
 # software-defined-orgs
 Infrastructure is better as software.  Organizations too.
 
+# Goals
+1. Work towards an API style interaction with Helix, to support the Helix1, Helix2, HelixN as BTL builds its partner networks
+1. Formalize all the interactions of all the departments, so that any shortfalls or advice can be applied holistically
+1. Measure performance of all individuals, so that bonuses can be applied
+
 # Features
 Orgs ultimately have features that matter to their users.  Users of an org are:
 1. Customers
