@@ -12,6 +12,8 @@ Features are met by functions.
 
 The overall functionality of an org is always measured by Sales.  Therefore everything within an org can be measured relative to increasing sales performance.
 
+Unless we can measure the change, we're not going to implement it.
+
 # Functions that fulfill the Features of the SDO and dependencies
 1. Market awareness 
 1. Contacts
@@ -29,6 +31,7 @@ The overall functionality of an org is always measured by Sales.  Therefore ever
 1. Core R&D
 1. Accounting
    1. Sales
+1. Command
 
 
 # Data
