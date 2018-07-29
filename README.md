@@ -20,6 +20,9 @@ As software is used, it creates data.  Data MAY be mixed with logic in some circ
 # Function execution time
 All functions, as a rule, execute on the global clock, which is normally 2 weeks.
 
+# Message passing
+All inputs to all functions are tickets / issues, which result in a change of state as the output of the function, and possibly more tickets passed to other functions.  This is so the messages can be audited and queue length analyzed.  Tickets can include dependencies so there is a call stack.
+
 # Fractions and visibility
 1. Fleet Command
 1. BTL
