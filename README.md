@@ -14,6 +14,7 @@ As software is used, it creates data.  Data MAY be mixed with logic in some circ
 1. Intel - Data generated from executing governing code - this is the business knowledge PUBLIC
 1. Source - Source code resulting from the output of the dev machine PRIVATE
 1. HR - Sensitive personnel data PRIVATE
+1. Factory - the outsourced work pool PRIVATE
 
 # Issues
 Tickets serve two purposes here:
