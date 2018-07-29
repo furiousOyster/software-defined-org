@@ -26,6 +26,7 @@ The overall functionality of an org is always measured by Sales.  Therefore ever
    1. Platform dev
    1. App dev
 1. App dev
+1. Core R&D
 1. Accounting
    1. Sales
 
