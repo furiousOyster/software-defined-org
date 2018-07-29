@@ -8,12 +8,17 @@ Orgs ultimately have features that matter to their users.  Users of an org are:
 3. Shareholders
 The purpose of all orgs is to supply demands - this is called sales - an org is measured on how quickly it can identify demand and supply it with as little of its own resources as possible - this is margin maximization
 
+Features are met by functions.
+
 # Data
 As software is used, it creates data.  Data MAY be mixed with logic in some circumstances.  In this case, we separate the configuration of the org from the running data, but use the same repository.  Each instanciation of the SDO forms a Fraction, which is the execution of the SDO code in a specific region.  There are 4 levels of data:
 1. Global SDO - Code that governs the operation of the organism PUBLIC
 1. Fraction Intel - Data generated from executing governing code - this is the business knowledge PRIVATE
 1. Fraction Source - Source code resulting from the output of the dev machine PRIVATE
 1. Fraction HR - Sensitive personnel data PRIVATE
+
+# Function execution time
+All functions, as a rule, execute on the global clock, which is normally 2 weeks.
 
 # Fractions and visibility
 1. Fleet Command
