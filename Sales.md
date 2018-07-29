@@ -8,6 +8,8 @@ Industry Survey - so people know what they're talking about when they walk in to
 Contacts - to have contact lists up to date.
 Dev / Helix - to pass off opportunities to.
 
+# Report format
+Output about the output.
 
 # Contacts
 Contact cards of all entities that are being contacted are shared between all functions.  Some of those cards are used in other areas, such as industry surveys, supplied information and management, etc
