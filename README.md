@@ -37,6 +37,7 @@ Unless we can measure the change, we're not going to implement it.
    1. App dev
 1. App dev (Helix dev)
 1. Core R&D
+   1. Demand forecasting
 1. Accounting
    1. Sales
 1. Command
