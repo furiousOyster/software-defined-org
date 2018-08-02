@@ -10,6 +10,7 @@ Jobs can depend on other jobs
 
 Jobs will be summarized in a doc that conveys the priority of each job, in the order it will be processed, and the current status, plus estimates.
 
+
 All jobs contain the following info:
 1. Job ID of the form `function-creationDate-increment`
 1. Job type
@@ -17,7 +18,8 @@ All jobs contain the following info:
 1. Estimate or timebox
 1. Work done in hours
 1. Expected result when done
-1. Value provided
+1. Value provided - how this will increase
+1. Sales sponsorship - cannot proceed without affinity to a sale
 1. Urgency
 1. Event log
     1. Log of which functions have processed the job

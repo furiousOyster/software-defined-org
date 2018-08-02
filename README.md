@@ -22,6 +22,9 @@ Unless we can measure the change, we're not going to implement it.
 # Functions that fulfill the Features of the SDO and dependencies
 1. Market awareness 
 1. Contacts
+1. Prospects
+   1. Contacts
+1. Work
 1. Recruiting
    1. Contacts
 1. Sales
@@ -49,6 +52,9 @@ As software is used, it creates data.  Data MAY be mixed with logic in some circ
 1. Fraction Intel - Data generated from executing governing code - this is the business knowledge PRIVATE
 1. Fraction Source - Source code resulting from the output of the dev machine PRIVATE
 1. Fraction HR - Sensitive personnel data PRIVATE
+
+## Data Objects
+
 
 # Function execution time
 All functions, as a rule, execute on the global clock, which is normally 2 weeks.
