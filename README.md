@@ -5,7 +5,10 @@ Infrastructure is better as software.  Organizations too.
 1. Work towards an API style interaction with Helix, to support the Helix1, Helix2, HelixN as BTL builds its partner networks
 1. Formalize all the interactions of all the departments, so that any shortfalls or advice can be applied holistically
 1. Measure performance of all individuals, so that bonuses can be applied
-
+1. There should be no difference in how we treat external expenditure and how we treat our own staff
+1. All acitivities must be either contribute to selling, or building something to sell - anything not moving these goals forwards must be stopped instantly
+1. This system should be simple enough that it could be run with paper cards - the system encourages thoughtfulness and economy of communication beyond trying to generate huge volumes of data as a substitue for knowledge
+1. As few queues as possible, but one queue per team of specialists
 # Features
 Orgs ultimately have features that matter to their users.  Users of an org are:
 1. Customers
@@ -44,6 +47,15 @@ Unless we can measure the change, we're not going to implement it.
 1. Accounting
    1. Sales
 1. Command
+
+## Types of Job in our system
+1. Product Definition
+1. Product Planning
+1. UI Planning
+1. System Planning
+1. UI Building
+1. System Building
+1. Assembly
 
 
 # Data

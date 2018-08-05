@@ -32,3 +32,28 @@ Must include the following:
 ## Monthly reports from each manager
 
 
+## Weekly Report Example
+### Summary
+> Queue size hours:  
+> Queue size #:  
+> Queue processed in hours & #  
+> Queue change since last week  
+> Queue down  
+> Queue up  
+> Capacity available next week  
+> Error rates in hours and # of jobs  
+
+#### Errors & Issues
+What types of errors were happening  
+How bad are the errors ?  
+What can we do to fix this  
+What issues remain unresolved, as pertains to work throughput ?  
+
+#### How we performed
+How did the workers do, who had problems, who did well  
+Why did differences in planned vs actual occur ?  
+How can we be more efficient in what we produce ?      
+
+
+### Team member summaries
+Contributions from each team member
