@@ -57,3 +57,11 @@ How can we be more efficient in what we produce ?
 
 ### Team member summaries
 Contributions from each team member
+
+### Affirmations
+1. I affirm that all holidays are logged
+1. I affirm that the website is currently up to date
+1. I affirm that all passwords are secure for my team
+1. I affirm that no employee grievances remain unraised
+
+> Signed: Huckleberry Finn

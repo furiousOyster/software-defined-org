@@ -9,6 +9,8 @@ Infrastructure is better as software.  Organizations too.
 1. All acitivities must be either contribute to selling, or building something to sell - anything not moving these goals forwards must be stopped instantly
 1. This system should be simple enough that it could be run with paper cards - the system encourages thoughtfulness and economy of communication beyond trying to generate huge volumes of data as a substitue for knowledge
 1. As few queues as possible, but one queue per team of specialists
+1. The `code` that runs the org should be transparent to all.  The `state` resulting from that execution should be permissioned.
+
 # Features
 Orgs ultimately have features that matter to their users.  Users of an org are:
 1. Customers
@@ -21,6 +23,10 @@ Features are met by functions.
 The overall functionality of an org is always measured by Sales.  Therefore everything within an org can be measured relative to increasing sales performance.
 
 Unless we can measure the change, we're not going to implement it.
+
+1. Personnel Competency Program
+   1. Series of skills the company values that personnel possess
+   1. Career path to help those who want more competencies to attain them
 
 # Functions that fulfill the Features of the SDO and dependencies
 1. Market awareness 
