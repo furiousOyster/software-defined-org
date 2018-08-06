@@ -1,4 +1,4 @@
-# Work Formats
+# Job Formats
 
 This piece is common to all departments.  Any work that needs to be done within a department must be defined in a job.  A job can be equivalent to a work order or a purchase order.  
 
