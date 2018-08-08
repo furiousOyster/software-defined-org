@@ -11,6 +11,17 @@ Infrastructure is better as software.  Organizations too.
 1. As few queues as possible, but one queue per team of specialists
 1. The `code` that runs the org should be transparent to all.  The `state` resulting from that execution should be permissioned.
 
+# Execution
+Code is the rules of any system.  State is what results from that execution.
+To implement the SDO or any part thereof, fork the base repository, then mutate state through git commits following the rules of operation.
+When a new version of the SDO comes out, pull request it over to update the code.
+
+# File formats and Housekeeping
+All formats
+
+# Queues, functions, and work
+All functions have a queue of work.
+
 # Features
 Orgs ultimately have features that matter to their users.  Users of an org are:
 1. Customers

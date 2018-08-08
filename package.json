@@ -1,0 +1,23 @@
+{
+  "name": "software-defined-org",
+  "version": "0.0.4",
+  "description": "Radio is better as software. Networking is better as software. Infrastructure is better as software. Organizations is better as software.",
+  "main": "index.js",
+  "dependencies": {
+    "mermaid": "^8.0.0-rc.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furiousOyster/software-defined-orgs.git"
+  },
+  "author": "Tom Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furiousOyster/software-defined-orgs/issues"
+  },
+  "homepage": "https://github.com/furiousOyster/software-defined-orgs#readme"
+}

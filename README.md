@@ -7,3 +7,5 @@ Factions arise due to the separation needs of an organization, such as HR files,
 
 ## Your Faction
 You should replace this file with a description of your faction and what it does, as well as a diagram that highlights which faction yours is on the production line.
+
+![Production Line](./_software-defined-org/img/production_line.png)
