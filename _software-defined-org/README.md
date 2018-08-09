@@ -16,6 +16,12 @@ Code is the rules of any system.  State is what results from that execution.
 To implement the SDO or any part thereof, fork the base repository, then mutate state through git commits following the rules of operation.
 When a new version of the SDO comes out, pull request it over to update the code.
 
+# Config
+The code of the org is the same throughout all instances, and is an attempt to capture and define fundamental business practices and decision making where the sole aim of a business is to match supply with demand.
+
+The instancing of an org or faction of an org will necessarily have slightly different parameters depending on the exact situation.  These parameters are represented in the [CONFIG](./CONFIG.md) file.
+
+All the operating code that can be tuned in this way will refer to the config file.s
 # File formats and Housekeeping
 All formats
 
