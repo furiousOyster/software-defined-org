@@ -15,6 +15,7 @@ Queues have a set of rules that govern
 
 ## Types of Queue
 1. Expense processing - booking travel, purchasing equipement
+1. Cost processing - external contractor bills
 1. External support - law and accounting requests
 1. Docs
 1. Product Definitions

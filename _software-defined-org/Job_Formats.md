@@ -32,3 +32,5 @@ All jobs contain the following info:
 
 ## Types of Job
 1. Core R&D request - study something
+
+## Event Log

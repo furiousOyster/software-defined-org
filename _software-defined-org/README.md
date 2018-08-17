@@ -10,6 +10,7 @@ Infrastructure is better as software.  Organizations too.
 1. This system should be simple enough that it could be run with paper cards - the system encourages thoughtfulness and economy of communication beyond trying to generate huge volumes of data as a substitue for knowledge
 1. As few queues as possible, but one queue per team of specialists
 1. The `code` that runs the org should be transparent to all.  The `state` resulting from that execution should be permissioned.
+1. The state of an org should be realtime current, and the view of all members of the org should share the same view.  Disjointed views result in either compromise or ejection, but we will have coherence.
 
 # Execution
 Code is the rules of any system.  State is what results from that execution.
