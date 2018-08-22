@@ -1,6 +1,10 @@
 # software-defined-orgs
 Infrastructure is better as software.  Organizations too.
 
+This work is based on queue based product development management as described here: {The Principles of Product Development Flow](https://www.amazon.co.uk/Principles-Product-Development-Flow-Generation/dp/1935401009)
+and also takes inspiration from the teachings of [https://plaintextaccounting.org/](https://plaintextaccounting.org/)
+
+
 # Goals
 1. Work towards an API style interaction with Helix, to support the Helix1, Helix2, HelixN as BTL builds its partner networks
 1. Formalize all the interactions of all the departments, so that any shortfalls or advice can be applied holistically
