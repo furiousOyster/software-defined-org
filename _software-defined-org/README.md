@@ -1,7 +1,7 @@
 # software-defined-orgs
 Infrastructure is better as software.  Organizations too.
 
-This work is based on queue based product development management as described here: {The Principles of Product Development Flow](https://www.amazon.co.uk/Principles-Product-Development-Flow-Generation/dp/1935401009)
+This work is based on queue based product development management as described here: [The Principles of Product Development Flow](https://www.amazon.co.uk/Principles-Product-Development-Flow-Generation/dp/1935401009)
 and also takes inspiration from the teachings of [https://plaintextaccounting.org/](https://plaintextaccounting.org/)
 
 
